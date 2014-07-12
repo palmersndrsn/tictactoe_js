@@ -1,0 +1,28 @@
+.container {
+
+	margin: 100px auto;
+
+	width: 450px;
+	height: 450px;
+	background-color: grey;
+}
+.box {
+	float: left;
+	box-sizing: border-box;
+	width: 150px;
+	height: 150px;
+	background-color: grey;
+	border: 2px solid black;
+	font-size: 125px;
+	text-align: center;
+
+}
+.box:hover{
+
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
