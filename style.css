@@ -4,9 +4,12 @@ body {
 * {
 	font-family: Helvetica, Sans-serif;
 	text-align: center;
+	
 }
 h1 {
 	color: white;
+	background-color: rgba(0,0,0,.6);
+	padding: 20px 0px;
 }
 .container {
 
@@ -15,6 +18,7 @@ h1 {
 	width: 450px;
 	height: 450px;
 	background-color: grey;
+
 }
 .box {
 	float: left;
